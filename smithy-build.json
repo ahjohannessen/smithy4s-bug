@@ -2,6 +2,7 @@
   "maven": {
     "dependencies": [
       "com.disneystreaming.alloy:alloy-core:latest.stable",
+      "io.github.ahjohannessen:s4s-lib-specs:latest.stable",
       "com.disneystreaming.smithy4s:smithy4s-protocol:latest.stable",
       "com.disneystreaming.smithy4s:smithy4s-core_2.13:latest.stable"
     ]
